@@ -1,2 +1,2 @@
 # My Resume
-Resume as a fresher software developer
+Resume as a student
